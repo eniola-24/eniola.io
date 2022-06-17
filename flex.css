@@ -1,0 +1,7 @@
+.flex-container{
+    display: flex;
+    /* background-color: dodgerblue; */
+}
+body{
+    background: red;
+}
